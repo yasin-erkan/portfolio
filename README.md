@@ -6,6 +6,8 @@ Hi there! I'm a passionate developer focused on creating innovative solutions. T
 
 ## 🎥 Demo
 🔗 [Live Demo](https://portfolio-nu-neon-93.vercel.app)
+![Portfolio Demo](https://github.com/yasin-erkan/portfolio/blob/main/public/portfolio.gif)
+
 
 ## 📸 Screenshots
 
