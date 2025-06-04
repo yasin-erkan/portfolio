@@ -5,10 +5,7 @@
 Hi there! I'm a passionate developer focused on creating innovative solutions. This repository showcases my projects and skills.
 
 ## 🎥 Demo
-
-[![Portfolio Demo](./public/portfolio.gif)
-
-🔗 [Live Demo]()
+🔗 [Live Demo](https://portfolio-nu-neon-93.vercel.app)
 
 ## 📸 Screenshots
 
